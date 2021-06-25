@@ -1,0 +1,16 @@
+PODS:
+  - YHBaseTest (0.1.0)
+
+DEPENDENCIES:
+  - YHBaseTest (from `../`)
+
+EXTERNAL SOURCES:
+  YHBaseTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHBaseTest: 85961f3333dcdc7411c1dca003eec3cc7c4cf4fd
+
+PODFILE CHECKSUM: aa3c681c5d732e5c382d79ff449a29f4c903f020
+
+COCOAPODS: 1.10.1
